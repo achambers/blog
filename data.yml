@@ -1,11 +1,11 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Aaron's Blog
+tagline: I code to clear my mind
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Aaron Chambers
+  email : achambers@gmail.com
+  github : achambers
+  twitter : grandazz
+  # feedburner : feedname
 
 navigation :
   - archive

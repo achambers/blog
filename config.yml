@@ -81,7 +81,7 @@ widgets :
 
   comments :
     use : disqus
-    enable : true
+    enable : false
     # -- config for disqus --
     short_name : jekyllbootstrap # Change This!
 
