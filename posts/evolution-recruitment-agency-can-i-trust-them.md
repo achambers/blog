@@ -39,9 +39,9 @@ So, after our conversation where David was obviously digging for leads and obvio
 > <br/><br/>
 > Speak to you soon,
 > <br/><br/>
-> David Dowdall
-> Senior Recruitment Consultant
-> Evolution Recruitment Solutions Ltd
+> David Dowdall  
+> Senior Recruitment Consultant  
+> Evolution Recruitment Solutions Ltd  
 
 So not only do I need to go to a page on their website and input the contact details of two of my references, before even having a role to interview for but I need to keep David updated with where I send my CV, where I have been and am going for interviews including the company and interviewing manager's name.
 
