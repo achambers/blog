@@ -8,7 +8,7 @@ RuhohSpec: "2.1"
 # Used for things like RSS that need the full URL to a given resource.
 # This DOES NOT affect any of your paths or links in any way.
 # This DOES NOT configure domain mapping. See post2.ruhoh.com for hosting options.
-production_url: "http://sample.com"
+production_url: "http://achambers.github.io"
 
 # Intelligently prepends all urls in the system with the given base_path.
 # This allows you to host your blog in a subdirectory of a given website.
@@ -33,7 +33,7 @@ _root:
 
 posts:
   sort: ["date", "desc"]
-  permalink: "/:categories/:title/"
+  permalink: "/posts/:title/"
   summary_lines: 20
   latest: 5
   rss:
@@ -44,7 +44,7 @@ posts:
     # Always start with a forward slash, as ruhoh will internally respect any base_path you set.
     # url: "/posts/"
   paginator:
-    enable: false
+    enable: true
     # The url your paginated pages will be located: e.g /posts/index/1, /posts/index/2, /posts/index/3
     # Always start with a forward slash, as ruhoh will internally respect any base_path you set.
     url: "/posts/index/"
@@ -73,6 +73,7 @@ widgets :
 
   analytics :
     use : google
+    enable : false
     # -- config for google --
     tracking_id : 'UA-123-12'
 
