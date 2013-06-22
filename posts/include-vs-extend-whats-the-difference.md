@@ -2,7 +2,7 @@
 title: Include vs Extend. What's the difference?
 date: '2011-08-26'
 description:
-permalink: 'include-vs-extend-whats-the-difference'
+permalink: 'posts/include-vs-extend-whats-the-difference'
 tags: []
 ---
 
